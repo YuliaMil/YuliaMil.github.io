@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
-<manifest identifier="Ew1EBsB5IDfBb" xmlns="http://www.imsglobal.org/xsd/imscp_v1p1" xmlns:imsss="http://www.imsglobal.org/xsd/imsss" xmlns:adlcp="http://www.adlnet.org/xsd/adlcp_v1p3" xmlns:adlseq="http://www.adlnet.org/xsd/adlseq_v1p3" xmlns:adlnav="http://www.adlnet.org/xsd/adlnav_v1p3" xmlns:lom="http://ltsc.ieee.org/xsd/LOM" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsglobal.org/xsd/imscp_v1p1 imscp_v1p1.xsd http://www.imsglobal.org/xsd/imsss imsss_v1p0.xsd http://www.adlnet.org/xsd/adlcp_v1p3 adlcp_v1p3.xsd http://www.adlnet.org/xsd/adlseq_v1p3 adlseq_v1p3.xsd http://www.adlnet.org/xsd/adlnav_v1p3 adlnav_v1p3.xsd http://ltsc.ieee.org/xsd/LOM lom.xsd">
+<manifest identifier="ASR88wetBmHoO" xmlns="http://www.imsglobal.org/xsd/imscp_v1p1" xmlns:imsss="http://www.imsglobal.org/xsd/imsss" xmlns:adlcp="http://www.adlnet.org/xsd/adlcp_v1p3" xmlns:adlseq="http://www.adlnet.org/xsd/adlseq_v1p3" xmlns:adlnav="http://www.adlnet.org/xsd/adlnav_v1p3" xmlns:lom="http://ltsc.ieee.org/xsd/LOM" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsglobal.org/xsd/imscp_v1p1 imscp_v1p1.xsd http://www.imsglobal.org/xsd/imsss imsss_v1p0.xsd http://www.adlnet.org/xsd/adlcp_v1p3 adlcp_v1p3.xsd http://www.adlnet.org/xsd/adlseq_v1p3 adlseq_v1p3.xsd http://www.adlnet.org/xsd/adlnav_v1p3 adlnav_v1p3.xsd http://ltsc.ieee.org/xsd/LOM lom.xsd">
 <metadata>
 <schema>ADL SCORM</schema>
 <schemaversion>2004 4th Edition</schemaversion>
 <lom:lom>
 <lom:general>
 <lom:title>
-<lom:string>normativnie osnovi proectirovania i stroitelstva_27.02</lom:string>
+<lom:string>normativnie osnovi proectirovania i stroitelstva_19.03</lom:string>
 </lom:title>
 </lom:general>
 <lom:educational>
@@ -16,11 +16,11 @@
 </lom:educational>
 </lom:lom>
 </metadata>
-<organizations default="normativnie_osnovi_proectirovania_i_stroitelstva_27.02_organization">
-<organization identifier="normativnie_osnovi_proectirovania_i_stroitelstva_27.02_organization">
-<title>normativnie osnovi proectirovania i stroitelstva_27.02</title>
+<organizations default="normativnie_osnovi_proectirovania_i_stroitelstva_19.03_organization">
+<organization identifier="normativnie_osnovi_proectirovania_i_stroitelstva_19.03_organization">
+<title>normativnie osnovi proectirovania i stroitelstva_19.03</title>
 <item identifier="DEB45CEB-EB9E-4202-9656-361C52DD1402" identifierref="resource">
-<title>normativnie osnovi proectirovania i stroitelstva_27.02</title>
+<title>normativnie osnovi proectirovania i stroitelstva_19.03</title>
 <imsss:sequencing>
 <imsss:deliveryControls completionSetByContent="true" objectiveSetByContent="true"/>
 </imsss:sequencing>
@@ -318,6 +318,12 @@
 <file href="res/data/slide113.css"/>
 <file href="res/data/slide114.js"/>
 <file href="res/data/slide114.css"/>
+<file href="res/data/slide115.js"/>
+<file href="res/data/slide115.css"/>
+<file href="res/data/slide116.js"/>
+<file href="res/data/slide116.css"/>
+<file href="res/data/slide117.js"/>
+<file href="res/data/slide117.css"/>
 <file href="res/data/quiz8.js"/>
 <file href="res/data/quiz8/fonts/fnt0.woff"/>
 <file href="res/data/quiz8/fonts/fnt1.woff"/>
@@ -325,23 +331,10 @@
 <file href="res/data/quiz8/fonts/fnt3.woff"/>
 <file href="res/data/quiz8/fonts/fnt4.woff"/>
 <file href="res/data/quiz8/fonts/fnt5.woff"/>
-<file href="res/data/quiz8/images/e119-8020-3d83-aa5f.png"/>
+<file href="res/data/quiz8/images/img-83c0fe9c37cdfb76182a7c5d54089a19995c4234.png"/>
 <file href="res/data/quiz8/images/quiz_bg_2.png"/>
-<file href="res/data/slide116.js"/>
-<file href="res/data/slide116.css"/>
-<file href="res/data/slide117.js"/>
-<file href="res/data/slide117.css"/>
-<file href="res/data/slide118.js"/>
-<file href="res/data/slide118.css"/>
-<file href="res/data/quiz9.js"/>
-<file href="res/data/quiz9/fonts/fnt0.woff"/>
-<file href="res/data/quiz9/fonts/fnt1.woff"/>
-<file href="res/data/quiz9/fonts/fnt2.woff"/>
-<file href="res/data/quiz9/fonts/fnt3.woff"/>
-<file href="res/data/quiz9/fonts/fnt4.woff"/>
-<file href="res/data/quiz9/fonts/fnt5.woff"/>
-<file href="res/data/quiz9/images/img-83c0fe9c37cdfb76182a7c5d54089a19995c4234.png"/>
-<file href="res/data/quiz9/images/quiz_bg_2.png"/>
+<file href="res/data/slide119.js"/>
+<file href="res/data/slide119.css"/>
 <file href="res/data/slide120.js"/>
 <file href="res/data/slide120.css"/>
 <file href="res/data/slide121.js"/>
@@ -394,27 +387,27 @@
 <file href="res/data/slide144.css"/>
 <file href="res/data/slide145.js"/>
 <file href="res/data/slide145.css"/>
-<file href="res/data/slide146.js"/>
-<file href="res/data/slide146.css"/>
+<file href="res/data/quiz9.js"/>
+<file href="res/data/quiz9/fonts/fnt0.woff"/>
+<file href="res/data/quiz9/fonts/fnt1.woff"/>
+<file href="res/data/quiz9/fonts/fnt2.woff"/>
+<file href="res/data/quiz9/fonts/fnt3.woff"/>
+<file href="res/data/quiz9/fonts/fnt4.woff"/>
+<file href="res/data/quiz9/images/img-83c0fe9c37cdfb76182a7c5d54089a19995c4234.png"/>
+<file href="res/data/quiz9/images/quiz_bg_3.png"/>
+<file href="res/data/slide147.js"/>
+<file href="res/data/slide147.css"/>
 <file href="res/data/quiz10.js"/>
 <file href="res/data/quiz10/fonts/fnt0.woff"/>
 <file href="res/data/quiz10/fonts/fnt1.woff"/>
 <file href="res/data/quiz10/fonts/fnt2.woff"/>
 <file href="res/data/quiz10/fonts/fnt3.woff"/>
 <file href="res/data/quiz10/fonts/fnt4.woff"/>
+<file href="res/data/quiz10/images/img-7bb1d98400b00cb4ad059b21fa19b67bb99ee1da.png"/>
 <file href="res/data/quiz10/images/img-83c0fe9c37cdfb76182a7c5d54089a19995c4234.png"/>
 <file href="res/data/quiz10/images/quiz_bg_3.png"/>
-<file href="res/data/slide148.js"/>
-<file href="res/data/slide148.css"/>
-<file href="res/data/quiz11.js"/>
-<file href="res/data/quiz11/fonts/fnt0.woff"/>
-<file href="res/data/quiz11/fonts/fnt1.woff"/>
-<file href="res/data/quiz11/fonts/fnt2.woff"/>
-<file href="res/data/quiz11/fonts/fnt3.woff"/>
-<file href="res/data/quiz11/fonts/fnt4.woff"/>
-<file href="res/data/quiz11/images/img-7bb1d98400b00cb4ad059b21fa19b67bb99ee1da.png"/>
-<file href="res/data/quiz11/images/img-83c0fe9c37cdfb76182a7c5d54089a19995c4234.png"/>
-<file href="res/data/quiz11/images/quiz_bg_3.png"/>
+<file href="res/data/slide149.js"/>
+<file href="res/data/slide149.css"/>
 <file href="res/data/slide150.js"/>
 <file href="res/data/slide150.css"/>
 <file href="res/data/slide151.js"/>
@@ -439,16 +432,8 @@
 <file href="res/data/slide160.css"/>
 <file href="res/data/slide161.js"/>
 <file href="res/data/slide161.css"/>
-<file href="res/data/quiz12.js"/>
-<file href="res/data/quiz12/fonts/fnt0.woff"/>
-<file href="res/data/quiz12/fonts/fnt1.woff"/>
-<file href="res/data/quiz12/fonts/fnt2.woff"/>
-<file href="res/data/quiz12/fonts/fnt3.woff"/>
-<file href="res/data/quiz12/fonts/fnt4.woff"/>
-<file href="res/data/quiz12/images/236a-473f-860d-bf03.png"/>
-<file href="res/data/quiz12/images/3a67-39a4-50e2-bac7.png"/>
-<file href="res/data/quiz12/images/img-83c0fe9c37cdfb76182a7c5d54089a19995c4234.png"/>
-<file href="res/data/quiz12/images/quiz_bg_3.png"/>
+<file href="res/data/slide162.js"/>
+<file href="res/data/slide162.css"/>
 <file href="res/data/slide163.js"/>
 <file href="res/data/slide163.css"/>
 <file href="res/data/slide164.js"/>
@@ -495,32 +480,30 @@
 <file href="res/data/slide184.css"/>
 <file href="res/data/slide185.js"/>
 <file href="res/data/slide185.css"/>
-<file href="res/data/slide186.js"/>
-<file href="res/data/slide186.css"/>
+<file href="res/data/quiz11.js"/>
+<file href="res/data/quiz11/fonts/fnt0.woff"/>
+<file href="res/data/quiz11/fonts/fnt1.woff"/>
+<file href="res/data/quiz11/fonts/fnt2.woff"/>
+<file href="res/data/quiz11/fonts/fnt3.woff"/>
+<file href="res/data/quiz11/fonts/fnt4.woff"/>
+<file href="res/data/quiz11/images/img-83c0fe9c37cdfb76182a7c5d54089a19995c4234.png"/>
+<file href="res/data/quiz11/images/quiz_bg_4.png"/>
 <file href="res/data/slide187.js"/>
 <file href="res/data/slide187.css"/>
-<file href="res/data/quiz13.js"/>
-<file href="res/data/quiz13/fonts/fnt0.woff"/>
-<file href="res/data/quiz13/fonts/fnt1.woff"/>
-<file href="res/data/quiz13/fonts/fnt2.woff"/>
-<file href="res/data/quiz13/fonts/fnt3.woff"/>
-<file href="res/data/quiz13/fonts/fnt4.woff"/>
-<file href="res/data/quiz13/images/img-83c0fe9c37cdfb76182a7c5d54089a19995c4234.png"/>
-<file href="res/data/quiz13/images/quiz_bg_4.png"/>
+<file href="res/data/quiz12.js"/>
+<file href="res/data/quiz12/fonts/fnt0.woff"/>
+<file href="res/data/quiz12/fonts/fnt1.woff"/>
+<file href="res/data/quiz12/fonts/fnt2.woff"/>
+<file href="res/data/quiz12/fonts/fnt3.woff"/>
+<file href="res/data/quiz12/fonts/fnt4.woff"/>
+<file href="res/data/quiz12/fonts/fnt5.woff"/>
+<file href="res/data/quiz12/images/img-7bb1d98400b00cb4ad059b21fa19b67bb99ee1da.png"/>
+<file href="res/data/quiz12/images/img-83c0fe9c37cdfb76182a7c5d54089a19995c4234.png"/>
+<file href="res/data/quiz12/images/quiz_bg_4.png"/>
 <file href="res/data/slide189.js"/>
 <file href="res/data/slide189.css"/>
-<file href="res/data/quiz14.js"/>
-<file href="res/data/quiz14/fonts/fnt0.woff"/>
-<file href="res/data/quiz14/fonts/fnt1.woff"/>
-<file href="res/data/quiz14/fonts/fnt2.woff"/>
-<file href="res/data/quiz14/fonts/fnt3.woff"/>
-<file href="res/data/quiz14/fonts/fnt4.woff"/>
-<file href="res/data/quiz14/fonts/fnt5.woff"/>
-<file href="res/data/quiz14/images/img-7bb1d98400b00cb4ad059b21fa19b67bb99ee1da.png"/>
-<file href="res/data/quiz14/images/img-83c0fe9c37cdfb76182a7c5d54089a19995c4234.png"/>
-<file href="res/data/quiz14/images/quiz_bg_4.png"/>
-<file href="res/data/slide191.js"/>
-<file href="res/data/slide191.css"/>
+<file href="res/data/slide190.js"/>
+<file href="res/data/slide190.css"/>
 <file href="res/data/quizplayer.js"/>
 <file href="res/index.html"/>
 <file href="res/data/player.js"/>
@@ -537,7 +520,6 @@
 <file href="res/data/fnt15.woff"/>
 <file href="res/data/fnt16.woff"/>
 <file href="res/data/fnt17.woff"/>
-<file href="res/data/fnt18.woff"/>
 <file href="res/data/fnt2.woff"/>
 <file href="res/data/fnt3.woff"/>
 <file href="res/data/fnt4.woff"/>
@@ -566,9 +548,7 @@
 <file href="res/data/img111.png"/>
 <file href="res/data/img112.png"/>
 <file href="res/data/img113.png"/>
-<file href="res/data/img114.png"/>
-<file href="res/data/img115.png"/>
-<file href="res/data/img12.jpg"/>
+<file href="res/data/img12.png"/>
 <file href="res/data/img13.png"/>
 <file href="res/data/img14.png"/>
 <file href="res/data/img15.png"/>
@@ -601,14 +581,14 @@
 <file href="res/data/img4.png"/>
 <file href="res/data/img40.png"/>
 <file href="res/data/img41.png"/>
-<file href="res/data/img42.jpg"/>
+<file href="res/data/img42.png"/>
 <file href="res/data/img43.png"/>
 <file href="res/data/img44.png"/>
 <file href="res/data/img45.png"/>
 <file href="res/data/img46.png"/>
 <file href="res/data/img47.png"/>
 <file href="res/data/img48.png"/>
-<file href="res/data/img49.jpg"/>
+<file href="res/data/img49.png"/>
 <file href="res/data/img5.png"/>
 <file href="res/data/img50.png"/>
 <file href="res/data/img51.png"/>
@@ -626,7 +606,7 @@
 <file href="res/data/img62.png"/>
 <file href="res/data/img63.png"/>
 <file href="res/data/img64.png"/>
-<file href="res/data/img65.jpg"/>
+<file href="res/data/img65.png"/>
 <file href="res/data/img66.png"/>
 <file href="res/data/img67.png"/>
 <file href="res/data/img68.png"/>
